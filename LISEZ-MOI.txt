@@ -1,0 +1,19 @@
+Mediachad — déploiement Netlify
+  =================================
+
+  Pour déployer :
+    1. Va sur https://app.netlify.com/drop
+    2. Glisse-dépose ce dossier décompressé.
+
+  Le fichier _redirects est inclus pour que les routes marchent au refresh.
+
+  ACCÈS ADMIN
+  -----------
+  Mot de passe : mediachad-admin-2026
+  Page de connexion : /login (ou clique l'icône cadenas en haut à droite).
+
+  Les visiteurs peuvent voir la bibliothèque mais pas modifier.
+  Toi seul, une fois connecté, peux ajouter, modifier, supprimer ou favoriser.
+
+  Les données sont stockées dans le localStorage de ton navigateur.
+  
